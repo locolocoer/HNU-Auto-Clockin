@@ -45,6 +45,7 @@ def main():
                     "dailyinfo": {"IsVia": "0", "DateTrip": ""},
                     "IsInCampus":"1",
                     "IsNormalTemperature": "1",
+                    "QRCodeColor": "绿色",
                     "Longitude": 112.925896,
                     "Latitude": 28.238775
                     }
